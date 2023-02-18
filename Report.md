@@ -96,5 +96,5 @@ Our analysis centers on:<br/>
 
 ## Summary:
 
-After evaluating Model 1 and Model 2 we recommend using Logistic Regression Model 2 that is based on the resampled data. As the evaluation scores show, Model 2 is superiour on most metrices besides a slight loss in precision (0.84 from 0.85 of Model 1). Significant improvements particularly in Recall for high risk loans (0.99 of Model 2 vs. 0.91 in Model 1) outweigh the small loss in precision, which means that we will save more on correctly marking and rejecting the near default loans comparing to the small loss in reveues we migh incur by rejecting potentially good quality loans.<br/>
+After evaluating Model 1 and Model 2 we recommend using Logistic Regression Model 2 that is based on the resampled data. As the evaluation scores show, Model 2 is superiour on most metrices besides a slight loss in precision (0.84 from 0.85 of Model 1). Significant improvements particularly in Recall for high risk loans (0.99 of Model 2 vs. 0.91 in Model 1) outweigh the small loss in precision, which means that we will save more on correctly marking and rejecting the near default loans comparing to the small loss in revenues we migh incur by rejecting potentially good quality loans.<br/>
 This conclusion is also supported by the outperformance of the Model 2 on the Accuracy and F1 metrices.
