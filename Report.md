@@ -33,7 +33,7 @@ Our analysis is focusing on the techniques that can be used to select the right 
   We choose `Logistics Regression` Model to predict the desired loan classification. However, considering the imbalanced nature of our dataset, we will be evaluating two Logistic Regression models:
 
   - Machine Learning Model 1 based on the original training data;
-  - Machine Learning Model 2 based on the resampled data, where we use the `Oversampling (creating more instances of a class label, usually for the smaller class)` technique to mitigate the results of imbalanced classes. To achieve this, random oversampler model is applied to the training data set. Below is the result of resampling on the target data.:<br/>
+  - Machine Learning Model 2 based on the resampled data, where we use the `Oversampling` (creating more instances of a class label, usually for the smaller class)`technique to mitigate the results of imbalanced classes. To achieve this, random oversampler model is applied to the training data set. Below is the result of resampling on the target data.:<br/>
     ![balanced](Images/resampled.PNG)<br/>
 
 - Stages of the machine learning process:
