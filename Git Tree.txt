@@ -1,0 +1,4 @@
+* 	 (HEAD -> main) readme and report.md finalized
+* 	 (origin/main, origin/HEAD) report finalized, notebook updated with answers
+* 	 notebook added, redme and report initialized, images added.
+* 	 Initial commit
