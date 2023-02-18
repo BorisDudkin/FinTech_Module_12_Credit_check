@@ -1,6 +1,6 @@
 # Credit Check
 
-### Credit Check attempts to predict the credit quality of the loans comprising a loan portfolio by applying machine learning models to the loan related data.<br/>The application takes us through the complete model selection process: data analysis, model selection, model application and the predictions evealuation.<br/> Finally, a summary report is generated to describe each of those steps in details provide recommendations for the ultimate model selection.
+### Credit Check attempts to predict the credit quality of the loans comprising a loan portfolio by applying machine learning models to the loan related data.<br/>The application takes us through the complete model selection process: data analysis, model selection, model application and the predictions evealuation.<br/> Finally, a summary report is generated to describe each of those steps in details and provide recommendations for the ultimate model selection.
 
 ---
 
